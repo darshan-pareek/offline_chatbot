@@ -1,0 +1,6 @@
+transformers==4.42.0
+torch
+accelerate
+bitsandbytes
+
+google-colab
